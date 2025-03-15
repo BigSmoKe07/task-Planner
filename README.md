@@ -1,4 +1,4 @@
-## Task Planner 
+## [Task Planner](https://z9svpxajzxrfgkuwcgbwaw.streamlit.app/)
 > Task planner is a handy tool that helps you manage your tasks and boost your productivity. This tutorial uses LangChain and LangGraph to create a simple, organized process for this. It includes:
 
 - *context breakdown & analysis*
