@@ -1,9 +1,9 @@
 ## Task Planner 
 > Task planner is a handy tool that helps you manage your tasks and boost your productivity. This tutorial uses LangChain and LangGraph to create a simple, organized process for this. It includes:
 
-- context breakdown & analysis
-- external resource retrieval (web search)
-- discretization of information
+- *context breakdown & analysis*
+- *external resource retrieval (web search)*
+- *discretization of information*
 
 ## Motivation
 
@@ -13,10 +13,10 @@ That’s where this project comes in—to help you tackle tasks with confidence!
 
 ## Core
 
- - Data Ingestion: Gathers data for approach analysis
- - State Graph: Orchestrates steps from analysis to personalized generation
- - Tavily Web Query: Searches for information on the task to maximize task proficiency
- - LLM Model: Generates plans and analyzes approach
+ - **Data Ingestion**: *Gathers data for approach analysis*
+ - **State Graph**: *Orchestrates steps from analysis to personalized generation*
+ - **Tavily Web Query**: *Searches for information on the task to maximize task proficiency*
+ - **LLM Model**: *Generates plans and analyzes approach*
 
 ## Installation
 
